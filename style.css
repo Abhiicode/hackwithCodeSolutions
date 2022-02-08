@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel-item img{
+    height: 95vh;
+}
+
+.services .row .img-fluid{
+    height: 100%;
+}
+.service-box{
+    max-height: 292px;
+}
+
+.gallery-img{
+    height: auto;
+    width: 100%;
+}
+
+
+.strip-section{
+    background-color: #a6dcef;
+}
+
+
+.flinks{
+    text-decoration: none;
+    color: rgb(22, 21, 21);
+}
+
+
+
+/* Responsive Code */
+
+ /* X-Small devices (portrait phones, less than 576px)
+ No media query for `xs` since this is the default in Bootstrap */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { }
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { }
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { }
